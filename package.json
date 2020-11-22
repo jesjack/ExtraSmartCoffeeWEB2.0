@@ -1,0 +1,23 @@
+{
+  "name": "extrasmartcoffeeweb2.0",
+  "version": "2.0.0",
+  "description": "ExtraSmartCoffee con su WEB a su maxima capacidad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesjack/ExtraSmartCoffeeWEB2.0.git"
+  },
+  "keywords": [
+    "ExtraSmartCoffee",
+    "Web"
+  ],
+  "author": "jesjack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesjack/ExtraSmartCoffeeWEB2.0/issues"
+  },
+  "homepage": "https://github.com/jesjack/ExtraSmartCoffeeWEB2.0#readme"
+}
